@@ -1,0 +1,8 @@
+public class Pro3 {
+    public static void main(String[] args) {
+        String str = "Welcome to world of Strings with Java";
+        str = str + "another string";
+        System.out.println(str);
+        System.out.println(str);
+    }
+}

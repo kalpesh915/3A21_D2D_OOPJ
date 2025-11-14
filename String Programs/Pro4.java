@@ -1,0 +1,9 @@
+public class Pro4 {
+    public static void main(String[] args) {
+        String str = "Welcome to world of Strings with Java";
+        System.out.println(str);
+        System.out.println(str.length());
+        System.out.println(str.toLowerCase());
+        System.out.println(str.toUpperCase());
+    }
+}
